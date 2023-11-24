@@ -1,1 +1,3 @@
-blablanakkcn
+Aufgabe C
+
+Branches (Zweige) in Git ermöglichen es Entwicklern, unabhängige Linien der Entwicklung zu erstellen, um gleichzeitig an verschiedenen Funktionen oder Verbesserungen zu arbeiten. Jeder Branch repräsentiert eine separate Version des Codes und Änderungen in einem Branch beeinflussen nicht automatisch andere Branches. Das erleichtert die parallele Entwicklung, das Testen neuer Features und das Beheben von Fehlern ohne den Hauptcode zu beeinträchtigen.
