@@ -63,11 +63,10 @@ git pull
 git push
 git branch und git checkout oder git switch
 
+# Review
+
+Rana hat die Aufgabe gut gelöst. Sie hat die Aufgabe in 2 Teile geteilt. Im ersten Teil hat sie die Fragen beantwortet und im zweiten Teil hat sie die wichtigsten Befehle für Git aufgelistet.
 
 **Review**
 **Seker Batuhan**
 **24.11.23**
-
-# Review
-
-Rana hat die Aufgabe gut gelöst. Sie hat die Aufgabe in 2 Teile geteilt. Im ersten Teil hat sie die Fragen beantwortet und im zweiten Teil hat sie die wichtigsten Befehle für Git aufgelistet.
